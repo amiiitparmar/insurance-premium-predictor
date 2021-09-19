@@ -1,9 +1,5 @@
 # [Insurance Premium Prediction](https://insurancepremiumpredictor.herokuapp.com/)
-This project is a part of internship at iNeuron (https://internship.ineuron.ai/).
-
-
-#### -- Project Status: [Active, On-Hold, Completed]
-<br>
+This project is a part of internship at iNeuron https://ineuronvision.com/
 
 ## Project Objective
 
@@ -22,17 +18,6 @@ The goal of this project is to give people an estimate of how much they need bas
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-### License information
-
-The work done in this project is made available under the Creative Commons Zero v1.0 Universal  License 
-
-You are free to:
-
-•	Share — copy and redistribute the material in any medium or format<br>
-•	Adapt — remix, transform, and build upon the material.<br>
-
-I have licensed this project for general public. The work done in this project is for learning and demonstration purposes. 
-  
 &nbsp; &nbsp; &nbsp; &nbsp;
 
 ## Project Description
